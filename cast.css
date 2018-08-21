@@ -1,10 +1,19 @@
-.logo {
-    font-size: 160pt;
+.background {
+    background-color: rgb(238, 255, 65);
   }
-
+  
+  .logo {
+    background-color: rgb(0, 0, 0);
+  }
+  
+  .progressBar {
+    background-color: rgb(65, 211, 255);
+  }
+  
   .splash {
-    font-size: 160pt;
+    background-color: rgb(147, 65, 255);
   }
-  .background {
-    font-size: 160pt;
-  }  
+  
+  .watermark {
+    background-color: rgba(65, 255, 113);
+  }
