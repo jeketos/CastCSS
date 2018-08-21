@@ -1,3 +1,19 @@
 .background {
     background: center no-repeat url("https://pbs.twimg.com/profile_images/1933919988/Twitter-Logo_400x400.png");
   }
+  .logo {
+    background-image: url(logo.png);
+  }
+  
+  .progressBar {
+    background-color: rgb(238, 255, 65);
+  }
+  
+  .splash {
+    background-image: url("https://pbs.twimg.com/profile_images/1933919988/Twitter-Logo_400x400.png");
+  }
+  
+  .watermark {
+    background-image: url("https://pbs.twimg.com/profile_images/1933919988/Twitter-Logo_400x400.png");
+    background-size: 57px 57px;
+  }
